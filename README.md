@@ -1,4 +1,11 @@
-### Hi there 👋
+### Kurt Bauer, He/Him/His 👋🏽
+Americano-Perùano 🇵🇪 Software Developer
+
+- Solutions Engineer at ( [Pendo.io](https://www.pendo.io/) )
+- Writer when in here -> [dev.to](https://dev.to/krtb)
+- Professional messages can be sent to my -- [LinkedIn](https://www.linkedin.com/in/kurt-bauer/) --
+
+~~Likes, in no specific order: Powdered donuts, gummy worms, house music, goth rock, general sounds~~
 
 <!--
 **krtb/krtb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
