@@ -1,23 +1,8 @@
-### Kurt Bauer, He/Him/His 👋🏽
+### Kurt Bauer's pronouns are: He / Him / His 👋🏽
 Americano-Perùano 🇵🇪 Software Developer
 
 - Solutions Engineer at ( [Pendo.io](https://www.pendo.io/) )
-- Writer when in here -> [dev.to](https://dev.to/krtb)
-- Professional messages can be sent to my -- [LinkedIn](https://www.linkedin.com/in/kurt-bauer/) --
+- Writer when in here => [dev.to](https://dev.to/krtb)
+- Professional messages can be sent to -- [LinkedIn](https://www.linkedin.com/in/kurt-bauer/) --
 
 ~~Likes, in no specific order: Powdered donuts, gummy worms, house music, goth rock, general sounds~~
-
-<!--
-**krtb/krtb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
