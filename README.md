@@ -4,4 +4,4 @@
 - Writer on => [dev.to](https://dev.to/krtb)
 - Please reach out via -- [my LinkedIn](https://www.linkedin.com/in/kurt-bauer/) --
 
-[![Alt text](./2022-05-06_team_hackercat.png)]()
+<img src="./2022-05-06_team_hackercat.png" width="200" height="200" />
