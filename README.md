@@ -5,5 +5,5 @@
 - Please reach out via -- [my LinkedIn](https://www.linkedin.com/in/kurt-bauer/) --
 
 <div align="center">
-  <img src="./2022-05-06_team_hackercat.png" width="400" height="400" />
+  <img src="./2022-05-06_team_hackercat.png" width="300" height="300" />
 </div>
