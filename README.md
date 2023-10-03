@@ -11,7 +11,7 @@
 </div>
 
 # Links 🔗
-* Solutions Engineer 🎯
+* Software Engineer 🎯
   * [Pendo.io](https://www.linkedin.com/in/kurt-bauer/)
 * Technical Articles 📚
   * [dev.to/krtb](https://dev.to/krtb)
