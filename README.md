@@ -10,7 +10,7 @@
   👋🏽
 </div>
 
-# Links 🔗
+# Links
 * Software Engineer 🎯
   * [Pendo.io](https://www.linkedin.com/in/kurt-bauer/)
 * Technical Articles 📚
